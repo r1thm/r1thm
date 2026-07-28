@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=40&pause=1000&vCenter=true&width=435&lines=Welcome.+This+is+Thomas+Guo!)](https://git.io/typing-svg)
+<p align="left">CS/BBA @ uwaterloo</p>
+
 ## 🛠 A couple of (cool) bricks lumped together
 
 <p align="left">
