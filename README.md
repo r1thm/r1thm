@@ -36,4 +36,5 @@
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=fff" alt="Confluence" />
   <img src="https://img.shields.io/badge/OpenRouter-94A3B8?style=for-the-badge&logo=openrouter&logoColor=fff" alt="OpenRouter" />
   <img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Drupal" />
 </p>
