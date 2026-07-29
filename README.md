@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=40&pause=1000&vCenter=true&width=435&lines=Welcome.+This+is+Thomas+Guo!)](https://git.io/typing-svg)
-<p align="left">CS/BBA @ uwaterloo</p>
+<p align="left">
+  <a href="https://uwaterloo.ca/future-students/programs/business-administration-computer-science-double-degree">CS/BBA</a> @ <a href="https://uwaterloo.ca/">uwaterloo</a>
+</p>
+<p>contact me: <a href="https://www.linkedin.com/in/thomas-hanxi-guo/">linkedin</a> or thomas [dot] guo [at] uwaterloo [dot] ca</p>
+<p>see ya there</p>
 
 ## 🛠 A couple of (cool) bricks lumped together
 
