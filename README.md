@@ -4,6 +4,8 @@
 </p>
 <p>contact me: <a href="https://www.linkedin.com/in/thomas-hanxi-guo/">linkedin</a> or thomas [dot] hanxi [dot] guo [at] hotmail [dot] com</p>
 
+<p>see ya there</p>
+
 ## 🛠 A couple of (cool) bricks lumped together
 
 <p align="left">
