@@ -2,8 +2,7 @@
 <p align="left">
   <a href="https://uwaterloo.ca/future-students/programs/business-administration-computer-science-double-degree">CS/BBA</a> @ <a href="https://uwaterloo.ca/">uwaterloo</a>
 </p>
-<p>contact me: <a href="https://www.linkedin.com/in/thomas-hanxi-guo/">linkedin</a> or thomas [dot] guo [at] uwaterloo [dot] ca</p>
-<p>see ya there</p>
+<p>contact me: <a href="https://www.linkedin.com/in/thomas-hanxi-guo/">linkedin</a> or thomas [dot] hanxi [dot] guo [at] hotmail [dot] com</p>
 
 ## 🛠 A couple of (cool) bricks lumped together
 
