@@ -8,7 +8,7 @@
 
 ## 🛠 A couple of (cool) bricks lumped together
 
-<p align="left">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -45,4 +45,4 @@
   <img src="https://img.shields.io/badge/OpenRouter-94A3B8?style=for-the-badge&logo=openrouter&logoColor=fff" alt="OpenRouter" />
   <img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Drupal" />
-</p>
+</div>
