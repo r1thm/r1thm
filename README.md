@@ -2,7 +2,8 @@
 <p align="left">
   <a href="https://uwaterloo.ca/future-students/programs/business-administration-computer-science-double-degree">CS/BBA</a> @ <a href="https://uwaterloo.ca/">uwaterloo</a>
 </p>
-<p>contact me: <a href="https://www.linkedin.com/in/thomas-hanxi-guo/">linkedin</a> or thomas [dot] hanxi [dot] guo [at] hotmail [dot] com</p>
+<p>currently: machine learning research intern @ <a href=https://www.canada.ca/en/department-national-defence.html> department of national defence </a>, exploring ASR systems, RLHF, Whisper, SVMs and ROS2 for UAVs</p>
+<p>contact me: <a href="https://www.linkedin.com/in/thomas-hanxi-guo/">linkedin</a> or thomas.guo@uwaterloo.ca com</p>
 
 <p>see ya there</p>
 
